@@ -508,14 +508,14 @@
   </url>
   
   <url>
-    <loc>https://hanblog.xyz/tags/Visual-Studio/</loc>
+    <loc>https://hanblog.xyz/tags/Html/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hanblog.xyz/tags/Html/</loc>
+    <loc>https://hanblog.xyz/tags/javascript/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -536,7 +536,7 @@
   </url>
   
   <url>
-    <loc>https://hanblog.xyz/tags/javascript/</loc>
+    <loc>https://hanblog.xyz/tags/Visual-Studio/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
